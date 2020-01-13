@@ -12,3 +12,5 @@ PanoViewer.html is a static HTML file that loads the three.js library and necess
 |PanoViewer            | aServer/panoViwer.html                          | 
 |Photo path            | aServer/Photo.jpg                               |
 |Panoviewer with photo | aServer/panoViewer.html?photo=aServer/Photo.jpg |
+
+The ability to read a parameter from the URL is not supported on older browsers. This has been tested and works on current versions of Chrome, Firefox and Chromium based Edge. 
